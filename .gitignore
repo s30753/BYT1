@@ -1,0 +1,15 @@
+# Build and IDE files
+bin/
+obj/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.log
+*.tmp
+TestResult.xml
+*.trx
+
+# OS junk
+Thumbs.db
+.DS_Store
