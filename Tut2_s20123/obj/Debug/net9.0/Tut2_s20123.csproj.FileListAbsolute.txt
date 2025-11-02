@@ -1,0 +1,14 @@
+C:\swola\Documents\Part one\Tut2_s20123\bin\Debug\net9.0\Tut2_s20123.exe
+C:\swola\Documents\Part one\Tut2_s20123\bin\Debug\net9.0\Tut2_s20123.deps.json
+C:\swola\Documents\Part one\Tut2_s20123\bin\Debug\net9.0\Tut2_s20123.runtimeconfig.json
+C:\swola\Documents\Part one\Tut2_s20123\bin\Debug\net9.0\Tut2_s20123.dll
+C:\swola\Documents\Part one\Tut2_s20123\bin\Debug\net9.0\Tut2_s20123.pdb
+C:\swola\Documents\Part one\Tut2_s20123\obj\Debug\net9.0\Tut2_s20123.GeneratedMSBuildEditorConfig.editorconfig
+C:\swola\Documents\Part one\Tut2_s20123\obj\Debug\net9.0\Tut2_s20123.AssemblyInfoInputs.cache
+C:\swola\Documents\Part one\Tut2_s20123\obj\Debug\net9.0\Tut2_s20123.AssemblyInfo.cs
+C:\swola\Documents\Part one\Tut2_s20123\obj\Debug\net9.0\Tut2_s20123.csproj.CoreCompileInputs.cache
+C:\swola\Documents\Part one\Tut2_s20123\obj\Debug\net9.0\Tut2_s20123.dll
+C:\swola\Documents\Part one\Tut2_s20123\obj\Debug\net9.0\refint\Tut2_s20123.dll
+C:\swola\Documents\Part one\Tut2_s20123\obj\Debug\net9.0\Tut2_s20123.pdb
+C:\swola\Documents\Part one\Tut2_s20123\obj\Debug\net9.0\Tut2_s20123.genruntimeconfig.cache
+C:\swola\Documents\Part one\Tut2_s20123\obj\Debug\net9.0\ref\Tut2_s20123.dll
