@@ -1,7 +1,7 @@
 # Shapes unit tests and Calculator class with unit tests
 
 
-## Part 1 – 
+## Part 1 – Shapes unit tests
 
 \- area and volume calculation methods
 
