@@ -1,4 +1,7 @@
-\## Part 1 – 
+# Shapes unit tests and Calculator class with unit tests
+
+
+## Part 1 – 
 
 \- area and volume calculation methods
 
@@ -6,7 +9,7 @@
 
 
 
-\## Part 2 – Calculator class and testing
+## Part 2 – Calculator class and testing
 
 Calculator accepts:
 
@@ -16,7 +19,7 @@ Calculator accepts:
 
 
 
-Unit tests test:
+### Unit tests test:
 
 \- standard arithmetic operations
 
