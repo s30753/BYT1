@@ -1,15 +1,49 @@
-# Build and IDE files
-bin/
-obj/
+# Rider and IDE files
 .idea/
 *.suo
 *.user
-*.userprefs
-*.log
-*.tmp
-TestResult.xml
-*.trx
+*.userosscache
+*.sln.docstates
 
-# OS junk
+# Build results
+bin/
+obj/
+out/
+[Bb]uild/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+# Prevent NuGet restore folder
+!packages/build/
+
+# Logs and debug
+*.log
+*.vspscc
+*.vssscc
+*.pidb
+*.svclog
+
+# Test results
+TestResult*/
+*.VisualState.xml
+*.TestResult.xml
+coverage*.json
+coverage*.xml
+*.coverage
+*.coveragexml
+
+# Rider workspace files
+/workspace.xml
+/shelf/
+
+# Environment
+.vs/
+.vscode/
+.env
+
+# Local tools
+*.DS_Store
 Thumbs.db
-.DS_Store
