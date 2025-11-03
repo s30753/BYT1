@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tut2_s20123_Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8719597b5faad3f6de25798a1c2b551bdfd55b4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tut2_s20123_Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tut2_s20123_Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
