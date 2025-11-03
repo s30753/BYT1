@@ -12,7 +12,7 @@ Calculator accepts:
 
 \- 2 numbers `A` and `B`
 
-\- arithmetic operator (`+`, `-`, `\*`, `/`)
+\- arithmetic operator (`+`, `-`, `*`, `/`)
 
 
 
